@@ -1,4 +1,4 @@
-# Sea Level Rise 3D Map
+# Fork of Sea Level Rise 3D Map by nagix (WIP)
 
 A 3D map of sea level rise simulation. This demo shows how to use [Google Maps Photorealistic 3D Tiles](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles) with [deck.gl](https://deck.gl) and [three.js](https://threejs.org).
 
